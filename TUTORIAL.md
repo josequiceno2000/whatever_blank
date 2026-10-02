@@ -3,8 +3,8 @@
 - git status
 - git add [filename]
 - git commit (-m) ("")
-- git remote add origin <PASTE_YOUR_GITHUB_URL_HERE>
-- git push (-u origin main) **first time only
+- git remote add origin <PASTE_YOUR_GITHUB_URL_HERE> **first time only
+- git push
 - git log (--oneline)
 
 ## Conventional Commits
@@ -13,5 +13,6 @@
   - chore: building out 
   - docs: writing out something in MD file
   - fix: bugs
+- present tense imperative
 
 ## Say WHY, not HOW or the WHAT
